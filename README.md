@@ -24,6 +24,11 @@ A **5-language Telegram bot** that answers questions about academic regulations 
 - **⚡ Rate Limit Handling** — Automatic retry with backoff for Groq API rate limits.
 
 ---
+<img width="1919" height="668" alt="image" src="https://github.com/user-attachments/assets/9d8cc428-b002-4bb2-b184-12f04cf24d1f" />
+
+<img width="789" height="366" alt="image" src="https://github.com/user-attachments/assets/220c6e7e-8f20-4449-832d-04d8181fc8db" />
+
+
 
 ## 🏗️ Architecture
 
