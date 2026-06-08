@@ -228,6 +228,3 @@ The document ID (`DOC_ID`) is set in `src/client.py` after uploading your PDF.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
